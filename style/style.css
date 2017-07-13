@@ -185,6 +185,7 @@ body{
 }
 
 #menu a{
+  transition: 0.3s;
   white-space: nowrap;
   text-align: center;
   width: 129px;
